@@ -21,20 +21,14 @@
 .footer-input{
   display: flex;
   margin-top: 20px;
-  align-items: center;
 }
 
 .footer-input input{
     background-color: #ffffff;
      color: #A0A0A0;
-     padding: 12px 0 12px 20px;
-     border-radius: 5px 0 0 5px;
+     padd
 }
 
-.footer-input i{
-  background-color: #b68c59;
-  color: white;
-  padding: 16.5px;
-  border-radius: 5px;
-  margin-left: -5px;
+.footer-input button img{
+  background-color: red;
 }
